@@ -1,5 +1,7 @@
-alert('Hello World!')
+const day = "Friday"
+const position = "5"
 
-const name = "Tester"
+const output = "Today is " + day + "." + " It is the " + position + "th day of the week."
 
-alert(name)
+console.log(output)
+
