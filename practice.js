@@ -1,11 +1,13 @@
-const day = "Thursday"
+// const number = 18 
 
-if(day === "Friday") {
-    console.log("Thank God its Friday")
-} else if(day === "Saturday") {
-    console.log("It is weekend")
-} else if(day === "Sunday") {
-    console.log("Let's go to church")
-} else {
-    console.log("Go to work")
+// if(number % 2 != 0){
+//     console.log("number is odd")
+// }
+// else{
+//     console.log("number is even")
+// }
+for (let number = 1; number <= 20; number++){
+
+if(number % 2 != 0)
+    console.log(number);
 }
