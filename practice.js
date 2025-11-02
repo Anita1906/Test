@@ -6,8 +6,12 @@
 // else{
 //     console.log("number is even")
 // }
-for (let number = 1; number <= 20; number++){
+// for (let number = 1; number <= 20; number++){
 
-if(number % 2 != 0)
-    console.log(number);
-}
+// if(number % 2 != 0)
+//     console.log(number);
+// }
+
+const friends = ["Safiyah", "Khadijah", "Fortune", "Teju", "Zowie"]
+console.log(friends)
+
